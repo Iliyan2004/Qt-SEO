@@ -1,0 +1,12 @@
+# ninja log v6
+2041	10387	7472995423468492	CMakeFiles/SEO.dir/main.cpp.obj	7d0eb559386d68d5
+23	205	7473042072987720	C:/Users/NCS/Desktop/SEO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	94b69fed0e8adc27
+335	2023	7472995421966898	SEO_autogen/timestamp	f96cad45b046cf83
+335	2023	7472995421966898	SEO_autogen/mocs_compilation.cpp	f96cad45b046cf83
+335	2023	7472995421966898	C:/Users/NCS/Desktop/SEO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SEO_autogen/timestamp	f96cad45b046cf83
+2046	7970	7472995423518353	CMakeFiles/SEO.dir/searchbar.cpp.obj	af510237e5dadbb
+2036	7716	7472995423418632	CMakeFiles/SEO.dir/SEO_autogen/mocs_compilation.cpp.obj	7b85cc4972b440d7
+335	2023	7472995421966898	C:/Users/NCS/Desktop/SEO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/SEO_autogen/mocs_compilation.cpp	f96cad45b046cf83
+10387	12509	7472995506930088	SEO.exe	cdaab260ee438ae4
+205	1188	7473042082183781	build.ninja	809e9ae7a8a1a7f9
+37	241	7473042084202510	C:/Users/NCS/Desktop/SEO/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	94b69fed0e8adc27
